@@ -79,7 +79,7 @@ $ mpiexec -n 4 ./bpsraw -ceed /cpu/self/ref/serial -problem bp3 -degree 1 -local
 
 ### The multigrid example
 This example solves the same problem, but by using a preconditioning strategy. We use Chebchev as the smoother (solver) 
-with Jacobi as the preconditioner for the smoother.
+with Jacobi as the preconditioner for the smoother. For a reference on multigrid methods see [this book](https://epubs.siam.org/doi/book/10.1137/1.9780898719505?mobileUi=0) that can be found also online.
 
 Run
 
