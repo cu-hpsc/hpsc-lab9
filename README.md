@@ -1,6 +1,8 @@
 # HPSC Lab 9
 2019-10-25
 
+Click to [make your own repo](https://classroom.github.com/a/vhAnbgHH).
+
 ## Introduction to libCEED
 
 libCEED is a low-level API library for the efficient
